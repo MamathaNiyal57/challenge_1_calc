@@ -11,4 +11,10 @@ public class calc
         int b = sc.nextInt();
         int height = sc.nextInt();
     }
+
+    public static int sub(int a,int b)
+    {
+        int diff = a-b;
+        return diff;
+    }
 }
