@@ -17,5 +17,9 @@ public class calc
     {
         int sum = a + b ;
         return sum;
+    public static int sub(int a,int b)
+    {
+        int diff = a-b;
+        return diff;
     }
 }
